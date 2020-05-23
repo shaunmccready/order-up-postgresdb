@@ -1,0 +1,3 @@
+# Important files to not commit
+.env
+docker-compose.yml
